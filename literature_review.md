@@ -1,4 +1,4 @@
-# Scientific Literature Review: Emotion-Aware Smart Fashion
+# Literature Review: Emotion-Aware Smart Fashion
 
 ## Executive Summary
 
